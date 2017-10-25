@@ -44,7 +44,8 @@ end)
 
 
 7) UPDATE esx_basicneeds [client/main.lua]
-```RegisterNetEvent('esx_basicneeds:onDrinkCoffee')
+```
+RegisterNetEvent('esx_basicneeds:onDrinkCoffee')
 AddEventHandler('esx_basicneeds:onDrinkCoffee', function(prop_name)
 	if not IsAnimated then
 		local prop_name = prop_name or 'p_amb_coffeecup_01'
@@ -65,7 +66,8 @@ AddEventHandler('esx_basicneeds:onDrinkCoffee', function(prop_name)
 			DeleteObject(prop)
 		end)
 	end
-end)```
+end)
+```
 
 
 8) UPDATE esx_basicneeds [locales/yourlanguage.lua]
