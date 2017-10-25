@@ -8,7 +8,7 @@ esx_basicneeds =>  ``https://github.com/ESX-Org/esx_basicneeds``
 
 1) CD in your resources/[esx] folder
 2) Clone the repository
-``git clone https://github.com/FXServer-ESX/fxserver-esx_shops esx_shops``
+``git clone https://github.com/Thananyx/esx_coffee.git``
 
 
 3) Import ``esx_coffees.sql`` in your database
