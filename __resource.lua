@@ -1,4 +1,4 @@
-description 'ESX Shops'
+description 'ESX Coffee'
 
 client_scripts {
 	'@es_extended/locale.lua',
